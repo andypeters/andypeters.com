@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article class="mx-4 lg:m-auto lg:w-2/3">
+  <h1 class="text-5xl lg:text-6xl pt-24 pb-2 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-blue-500 font-extrabold">
+    {{ page.title }}</h1>
+  <p class="text-gray-900 text-lg pb-12 font-bold leading-4">{{page.subtitle}}</p>
+
+  <div class="text-xl subpixel-antialiased leading-relaxed">
+    <div class="float-right w-100 lg:w-1/2 pb-16 lg:ml-10">
+      <img src="images/andypeters-wfh1.jpeg" title="Chewie and Rey are a big help with code."
+        class="transform lg:rotate-3 rounded-md">
+    </div>
+    <div class="prose lg:prose-xl text-gray-600 prose-blue">
+      {{ content }}
+    </div>
+  </div>
+</article>

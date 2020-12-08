@@ -1,5 +1,31 @@
-<nav>
-  <a href="/">Home</a>
-  <a href="/about">About</a>
-  <a href="/posts">Posts</a>
-</nav>
+<header class="lg:flex items-center p-4">
+    {% if page.url != "/" %}
+        <div class="tracking-tighter">
+            <a href="/" class="text-3xl bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-blue-500 font-extrabold">Andy Peters</a>
+            <p class="text-md font-semibold leading-5 text-gray-600">Founder. Developer. Bicyclist.</p>
+        </div>
+    {% else %}
+        <!-- HACK THE PLANET / LAZY ELSE BLOCK / LOOK AWAY-->
+        <div class="tracking-tighter">
+            <a href="/" class="text-3xl bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-blue-500 font-extrabold">&nbsp;</a>
+            <p class="text-md font-semibold leading-5 text-gray-600">&nbsp;</p>
+        </div>
+    {% endif %}
+
+    <div class="lg:flex-grow lg:text-right text-md lg:text-xl">
+        <ul class="tracking-tight ">
+            <li class="inline">
+                <a href="/about" class="lg:px-6 pr-4 py-4 font-semibold  hover:text-blue-600">About</a>
+            </li>
+            <li class="inline">
+                <a href="/posts" class="lg:px-6 pr-4 py-4 font-semibold hover:text-blue-600">Blog</a>
+            </li>
+            <li class="inline">
+                <a href="/photos" class="lg:px-6 pr-4 py-4 font-semibold hover:text-blue-600">Photos</a>
+            </li>
+            <li class="inline">
+                <a href="/podcasts" class="lg:px-6 pr-4 py-4 font-semibold hover:text-blue-600">Podcasts</a>
+            </li>
+        </ul>
+    </div>
+</header>

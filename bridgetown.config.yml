@@ -16,8 +16,9 @@
 #
 
 baseurl: "" # OPTIONAL: the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://andypeters.com" # the base hostname & protocol for your site, e.g. https://example.com
 
-permalink: pretty
+# permalink: pretty
+permalink: simple
 
-# timezone: America/Los_Angeles
+timezone: America/Chicago

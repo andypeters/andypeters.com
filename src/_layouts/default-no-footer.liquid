@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  {% render "head", metadata: site.metadata, title: page.title %}
+</head>
+
+<body class>
+  {% render "navbar", metadata: site.metadata, page: page %}
+
+  {{ content }}
+
+</body>
+
+</html>

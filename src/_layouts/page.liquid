@@ -2,6 +2,14 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<article class="mx-4 lg:m-auto lg:w-2/3">
 
-{{ content }}
+  <h1 class="text-5xl lg:text-6xl my-8 text-black font-extrabold tracking-tighter leading-tight lg:-mx-12">{{ page.title }}</h1>
+  <p class="text-gray-900 text-lg pb-12 font-extrabold leading-4">{{page.subtitle}}</p>
+
+  <div class="text-xl subpixel-antialiased leading-relaxed">
+    <div class="prose lg:prose-xl text-gray-600 ">
+      {{ content }}
+    </div>
+  </div>
+</article>

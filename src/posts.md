@@ -1,15 +1,7 @@
 ---
-layout: page
-title: Posts
-permalink: /posts/
+layout: posts
+title: All Posts
+subtitle: Posts I've written.  Posts you might read.  Its a little bare here, I know.
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-If you have a lot of posts, you may want to consider adding [pagination](https://www.bridgetownrb.com/docs/content/pagination)!
+<h1>Posts</h1>

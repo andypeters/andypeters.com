@@ -1,3 +1,16 @@
-<footer>
-  Contact me at {{ metadata.email }}
+<footer class="mt-40 bg-gradient-to-r from-yellow-300 to-yellow-400 font-semibold">
+  <div class="lg:m-auto mx-8 lg:w-2/3 py-32">
+    <a href="/" class="text-4xl font-bold text-black border-none tracking-tighter">
+      {% if page.url != "/" %} Andy Peters {% else %} 👋🏻 🤘🏻 🤙🏻 {% endif %}
+    </a>
+    <div class="text-black font-bold pt-1 leading-4">
+      You can find me on <a href="https://twitter.com/andypeters" class="text-black underline">Twitter</a>,
+       <a href="https://github.com/andypeters" class="text-black  underline border-black">GitHub</a>,
+       <a href="https://dev.to/andypeters" class="text-black  underline border-black">dev.to</a>,
+       <a href="https://www.linkedin.com/in/andypeters/" class="text-black underline">LinkedIn</a>,
+        <a href="https://www.instagram.com/andypeters/" class="text-black underline ">Instagram</a> and <a
+        href="https://www.strava.com/athletes/4447140" class="text-black underline">Strava</a>.
+    </div>
+    <p class="pt-1 font-bold text-black">Email is better if you want to reach out and say hey: <a href="mailto:andypeters@hey.com" class="text-black underline">andypeters@hey.com</a></p>
+  </div>
 </footer>

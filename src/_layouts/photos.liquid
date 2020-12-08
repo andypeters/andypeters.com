@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% assign posts = site.tags["photos"]  %}
+
+<article class="mx-4 lg:m-auto lg:w-3/4">
+  <h1 class="text-5xl lg:text-6xl my-12 text-black font-extrabold tracking-tighter leading-tight lg:-mx-12">{{ page.title }}</h1>
+  <p class="text-gray-900 text-lg pb-12 font-extrabold leading-4">{{page.subtitle}}</p>
+  <div class="relative mt-24 px-4 sm:px-6 lg:px-8">
+    <div class="prose prose-lg prose-blue mx-auto">
+      {% for post in posts %}
+        <div class="mt-24">
+          <h1 class="text-xl lg:text-2xl my-4 text-black font-extrabold tracking-tighter leading-tight lg:-mx-12">{{ post.title }}</h1>
+          <figure>
+            <a href="{{ post.url }}"><img class="w-full rounded-md" src="{{post.image_path}}" alt="" width="1310" height="873"/></a>
+            <figcaption class="mt-4 text-gray-700 tracking-tigher leading-tighter"><span class="font-semibold">{{post.date_long}}</span>{{ post.content }}</figcaption>
+          </figure>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</article>

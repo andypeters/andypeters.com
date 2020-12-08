@@ -1,7 +1,13 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 
-layout: home
+layout: front
+title: Andy Peters
+subtitle: I'm a founder, developer and rider of bikes living in Omaha, NE.
 ---
 
-Welcome to Bridgetown!
+You can find me on [Twitter](https://twitter.com/andypeters), [GitHub](https://github.com/andypeters), [dev.to](https://dev.to/andypeters), [LinkedIn](https://www.linkedin.com/in/andypeters/), [Instagram](https://instagram.com/andypeters), and [Strava](https://www.strava.com/athletes/4447140).
+
+I'm going to be writing about my experiences building and launching a new SaaS product.  [Follow along here](/posts).
+
+Drop me an email anytime:  [andypeters@hey.com](mailto:andypeters@hey.com)
