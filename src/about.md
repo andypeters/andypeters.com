@@ -7,7 +7,7 @@ permalink: /about/
 
 Hello, I'm Andy Peters.  I live in Omaha, NE with the love of my life [Amanda Rucker](https://amandarucker.com/), our doggo [Chewie](/chewie) and cat [Rey](/rey/).  You can usually find me with them or [riding bikes](/bikes/) or with them while riding bikes; you know ... depends on the day.
 
-Recently I went out [on my own to build a new web SaaS product](/whats-next).  The unnamed product provides organized communication tools for those who manage rental properties.  I have been trying to write more about the journey of creating and launching a new SaaS product.  I haven't published much yet, it will all be right [here](/blog).
+Recently I went out [on my own to build a new web SaaS product](/whats-next) to build a SaaS product (eventually named) [Doorkeep](https://doorkeep.co).  Doorkeep provides organized communication tools for those who manage rental properties.  I have been trying to write more about the journey of creating and launching a new SaaS product.  You can find that on my [HEY World account here](https://world.hey.com/andypeters).
 
 Before that, [I was at Flywheel](/i-joined-flywheel) for about five years.  I was an early employee with a front row seat to watch the company grow, face challenges and see how they become one of Omaha's most successful startups.  As an early developer on the team I got to build and ship a ton of amazing products for the WordPress ecosystem.  I learned a ton, met life long friends and when the time seemed right, [I left to focus my energy on building my SaaS](/so-long-flywheel).
 
