@@ -13,6 +13,8 @@ A few years ago, I needed to quickly get ahold of my landlord but couldn’t jus
 
 An idea was formed: what if he had a way for me to get ahold of him, but didn’t have to be a text (he clearly didn’t want his private number used) or email that would languish away all weekend until he logged in on Monday? What if his team had a tool that met not only my needs, but respected his privacy and helped him keep on top of requests even when he needed a day off?
 
+I was surprised there was not already products for this and current software platforms available for property managers barely covered basic messaging needs for managers.  So I left my full time job a year ago focus all energy on a solution.
+
 [Doorkeep](https://doorkeep.co) is the customer service platform for property managers, management teams, landlords, building supervisors, basically anybody who manage rental properties.  It's the property manager's missing power tool to organize communications for rental properties.
 
 Getting to know my past property manager and so many other real estate investors, other property managers, and landlords over the years, I’ve found one common problem:  communication is hard and the software available to the industry struggles to keep up with their needs.  I remember the first manager I met with had six phones with him.  Other managers mixed their personal phone and just got a new number every few years to keep some sense of privacy from past tenets and vendors.  I wanted to offer something better for all of them.  After iterating on a few MVPs, lots of research, and talking a ton with would be customers, it is about time to ship it.
