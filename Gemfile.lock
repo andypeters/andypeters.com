@@ -44,6 +44,8 @@ GEM
       bridgetown (>= 0.20, < 2.0)
     bridgetown-paginate (0.20.0)
       bridgetown-core (= 0.20.0)
+    bridgetown-seo-tag (4.0.0)
+      bridgetown (>= 0.20.0, < 2.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.8)
     erubi (1.10.0)
@@ -100,6 +102,7 @@ PLATFORMS
 DEPENDENCIES
   bridgetown (~> 0.20.0)
   bridgetown-feed (~> 2.0)
+  bridgetown-seo-tag (~> 4.0)
 
 BUNDLED WITH
    2.1.4

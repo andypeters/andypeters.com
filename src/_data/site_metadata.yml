@@ -6,6 +6,9 @@
 
 title: Andy Peters
 tagline: Founder, developer and bicyclist.
-email: andypeters@hey.com
+email: yo@andypeters.com
 description: >- # this means to ignore newlines until "baseurl:"
   Andy Peters, founder, developer and bicyclist from Omaha, NE
+twitter:
+  username: andypeters
+  card: summary
