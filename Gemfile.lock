@@ -40,6 +40,8 @@ GEM
       thor (~> 1.1)
       tilt (~> 2.0)
       webrick (~> 1.7)
+    bridgetown-feed (2.0.0)
+      bridgetown (>= 0.20, < 2.0)
     bridgetown-paginate (0.20.0)
       bridgetown-core (= 0.20.0)
     colorator (1.1.0)
@@ -97,6 +99,7 @@ PLATFORMS
 
 DEPENDENCIES
   bridgetown (~> 0.20.0)
+  bridgetown-feed (~> 2.0)
 
 BUNDLED WITH
    2.1.4
