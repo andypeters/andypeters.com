@@ -9,6 +9,8 @@ description: Doorkeep is a customer service platform for property managers.
 excerpt: Doorkeep is the customer service platform for property managers, management teams, landlords, building supervisors, basically anybody who manage rental properties.  It's the property manager's missing power tool to organize communications for rental properties.
 ---
 
+**Originally posted on [HEY World](https://world.hey.com/andypeters/hey-doorkeep-1cd62bc6)**
+
 A few years ago, I needed to quickly get ahold of my landlord but couldn’t just send him a text or email. It had to be a phone call, which was hit-or-miss if I was going to get him on the line or not. I was going to have to play a game of phone tag with him on the weekend, when all I wanted to do was get him a message and have the request logged.
 
 An idea was formed: what if he had a way for me to get ahold of him, but didn’t have to be a text (he clearly didn’t want his private number used) or email that would languish away all weekend until he logged in on Monday? What if his team had a tool that met not only my needs, but respected his privacy and helped him keep on top of requests even when he needed a day off?

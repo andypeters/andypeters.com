@@ -9,6 +9,8 @@ description: I stumbled a lot when getting Doorkeep listed in Google.  Here is h
 excerpt: I stumbled a lot when getting Doorkeep listed in Google.  Here is how I fixed it.
 ---
 
+**Originally posted on [HEY World](https://world.hey.com/andypeters/doorkeep-s-path-to-google-s-first-page-87658249)**
+
 [Doorkeep](https://doorkeep.co) is finally on the first page of Google when you [search doorkeep](https://www.google.com/search?q=doorkeep&ie=UTF-8&oe=UTF-8&hl=en-us).  It was tougher than I thought to get to the first page for a fairly uncommon word. Here some of what I learned over the last 2 weeks:
 
 ![Search for Doorkeep](/images/doorkeep/doorkeep-search.gif)

@@ -9,6 +9,8 @@ description: I stumbled a lot when getting Doorkeep listed in Google.  Here is h
 excerpt: I stumbled a lot when getting Doorkeep listed in Google.  Here is how I fixed it.
 ---
 
+**Originally posted on [HEY World](https://world.hey.com/andypeters/evolution-of-the-one-sentence-pitch-57973934)**
+
 Pitch sentence. The tag line. One liner.  Product description.  Call it what you will, but creating a single sentence that describes a business/product is just as hard as giving it a name.  It took a lot of time to come up with a name, but even more time to get create a pitch that can tell someone what [Doorkeep](https://doorkeep.co) is and who its for.
 
 Here are some product descriptions I used in the past:

@@ -9,6 +9,8 @@ description: Doorkeep, one year apart in screenshots.
 excerpt: Doorkeep, one year apart in screenshots.  
 ---
 
+**Originally posted on [HEY World](https://world.hey.com/andypeters/two-screenshots-a-year-apart-8f053850)**
+
 Last week I shared [Doorkeep](https://doorkeep.co).  I appreciate all the friendly compliments liking the design of the app.  But man, if you could have only seen how bad it was a year ago.
 
 I found a screenshot from a year ago of Doorkeep’s inbox.  I remember at the time showing some of these early screenshots to unimpressed hopeful customers.  These interactions really dropped my confidence.
